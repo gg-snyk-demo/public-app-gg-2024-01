@@ -1,12 +1,6 @@
 import antigravity
 
-CERT="""-----BEGIN EC PRIVATE KEY-----
-MIGkAgEBBDB07Wiq3fov6Q+UOzWKtsGqV4FcOLhkV2bJRHE1wEAD6w9Ml31dhmv4
-fUQJwBzxpv+gBwYFK4EEACKhZANiAAT6vXsIM46Vz+jJXU0KmRNR5pWsaW8fWQfG
-Phugcn9j77a7xDEbdRBnK3kpAAV7908ednqnmJ97We0Jr2rWWlde1EL3dUigGs00
-tGl7HJUNdl5+CU7wmoGxhkF7EB5jp/I=
------END EC PRIVATE KEY-----
-"""
+SEED=7c9432a1-44eb-4070-b8ac-9399e0260f53
 
 def main():
     antigravity.fly()
